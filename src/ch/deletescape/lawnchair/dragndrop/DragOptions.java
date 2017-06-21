@@ -38,6 +38,7 @@ public class DragOptions {
      */
     public DeferDragCondition deferDragCondition = new DeferDragCondition();
 
+
     /**
      * Specifies a condition that must be met before DragListener#onDragStart() is called.
      * By default, there is no condition and onDragStart() is called immediately following
